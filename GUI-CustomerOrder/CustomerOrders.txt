@@ -22,3 +22,11 @@ Meal Ordered: Pasta
 Special Request: No Cheese
 ----------------------------------
 
+===== Customer Order Receipt =====
+Customer Name: Den
+Gender: Male
+Dining Option: Takeaway
+Meal Ordered: Burger
+Special Request: No Cheese
+----------------------------------
+
